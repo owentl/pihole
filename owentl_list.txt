@@ -1,0 +1,20 @@
+# Samsung Smart TV
+osb.samsungqbe.com
+log-ingestion.samsungacr.com
+
+# Sonos Tracking
+clientdata.ssl.sonos.com
+msmetrics.ws.sonos.com
+msmetrics-test.ws.sonos.com
+sonar.ws.sonos.com
+
+# Log based blocks
+03.static.xsf.ximxim.com
+ads.api.vungle.com
+creative.stripchat.com
+id.tinypass.com
+img-resize-cdn-blue.samsungnyc.com
+livetileedge.dsx.mp.microsoft.com
+logs.supersonic.com
+prod-a.applovin.com
+stripchat.com
